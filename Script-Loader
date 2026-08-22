@@ -1,0 +1,2 @@
+-- Luna Hub Script Loader
+loadstring(game:HttpGet("https://protected.obscuravm.com/4b46192aceab0d8c3d8d96d9/87d076fcb85797d1eeb34df735b2539a22be63ae0c751595/download"))()
